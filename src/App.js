@@ -86,7 +86,7 @@ function App() {
       <div className='topContainer'>
         <div className='col1'>
           <div className='heading'>
-            <h1> News</h1>
+            <h1>Newserfewjfhewhfuerhurfiuh</h1>
             <h1 className='oneText'>One</h1>
           </div>
         </div>
